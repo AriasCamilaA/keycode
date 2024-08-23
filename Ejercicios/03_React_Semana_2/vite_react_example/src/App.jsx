@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Aprendizaje React</h1>
+      <h1 className='color-white'>Aprendizaje React</h1>
       <div className='card'>
         <h3>Selects Anidados</h3>
         {/* SelectAnidados */}
