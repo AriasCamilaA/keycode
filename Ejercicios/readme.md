@@ -12,11 +12,11 @@
 
     Por medio de useState() y useEffect() se practicaron peticiones a un api de ciudades y departamentos de Colombia, y con la información de esta se realizan select anidados que reaccione uno al cambio de otro.
 
--  [Ejercicio 04 Formularios en React](04_&_05_React_Forms_&_Tailwind)
+-  [Ejercicio 04 Formularios en React](04_05_React_Forms_Tailwind)
 
     Se construyen formularios con validación de errores de forma manual y también con librerias.
 
--  [Ejercicio 05 Estilización con Tailwind](04_&_05_React_Forms_&_Tailwind)
+-  [Ejercicio 05 Estilización con Tailwind](04_05_React_Forms_Tailwind)
 
     Usar las diferentes clases y customatización de Tailwind en React, lo apliqe al proyecto de forms
 
