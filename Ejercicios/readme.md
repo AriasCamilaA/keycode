@@ -4,21 +4,33 @@
     
     Tablas de multiplicar con js vanilla
 
+    ![alt text](image-2.png)
+
 -  [Ejercicio 02 DOM](02_DOM)
 
     Modificación del DOM de html con js, lo hice con la evolución de un Pokemón
+
+    ![alt text](image-3.png)
+
+    ![alt text](image-4.png)
 
 -  [Ejercicio 03 Hooks en React](03_React_Semana_2)
 
     Por medio de useState() y useEffect() se practicaron peticiones a un api de ciudades y departamentos de Colombia, y con la información de esta se realizan select anidados que reaccione uno al cambio de otro.
 
+    ![alt text](image-5.png)
+
 -  [Ejercicio 04 Formularios en React](04_05_React_Forms_Tailwind)
 
     Se construyen formularios con validación de errores de forma manual y también con librerias.
 
+    ![alt text](image.png)
+
 -  [Ejercicio 05 Estilización con Tailwind](04_05_React_Forms_Tailwind)
 
     Usar las diferentes clases y customatización de Tailwind en React, lo apliqe al proyecto de forms
+
+    ![alt text](image-1.png)
 
 -  [Ejercicio 06 React Router DOM](06_ReactRouter_Grupo_A)
 
